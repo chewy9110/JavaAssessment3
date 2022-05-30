@@ -1,12 +1,11 @@
-# findmyhat
-JFSD web project 04
+#  JFSD Assessment project 04
 
 Title: JFSD java project 04
 This is the third development project. This time using java.
 
 Description:
  
-This project uses Java to enhance the existing codebase with additional requirement. 
+This project uses Java to enhance the codebase with additional requirement.
  
 
 ●	What did you like about this project?
